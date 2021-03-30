@@ -1,0 +1,2 @@
+# fastmeta
+Meta-analysis package.
